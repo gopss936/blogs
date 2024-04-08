@@ -14,7 +14,7 @@ Features:
 Setup:
  To set up the project locally, follow these steps:
 
-1.Clone the repository:
+1.Clone the repository: git clone https://github.com/gopss936/blogs.git
 
 2.Install dependencies:
 
